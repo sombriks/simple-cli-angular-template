@@ -2,7 +2,7 @@
 
 [repo]:  https://github.com/sombriks/simple-cli-angular-template
 
-Bare minimal angular template. I wish it was [parcel][other-11] or
+Bare minimal angular template. I wish it was [parcel][other-1] or
 [vite][other-2], but it is what it is.
 
 [other-1]: https://github.com/sombriks/parcel-angular-template
